@@ -20,7 +20,7 @@ WORKDIR /
 COPY --from=build-stage /server /server
 COPY --from=build-stage /ctl /ctl
 
-ENV PORT 8080
+ENV PORT=8080
 
 # Install CA certificates
 RUN apt-get update && apt-get install -y ca-certificates
