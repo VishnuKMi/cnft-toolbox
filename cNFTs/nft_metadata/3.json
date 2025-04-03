@@ -1,0 +1,16 @@
+{
+  "name": "TCLUB PASS #3",
+  "description": "Special hand-drawn, 3d rendered and animated Access Passes, created specially to reward our OG Telegram Community with 1 year of free access to our Telegram Mini App on The Open Network and much more!",
+  "image": "https://divercitylabs.duckdns.org/collections/cc4f1d7be4187d53532d57aa/nft/image.webp",
+  "animation_url": "https://divercitylabs.duckdns.org/collections/cc4f1d7be4187d53532d57aa/nft/animation.mp4",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "3D Plastic"
+    },
+    {
+      "trait_type": "Teleclubber",
+      "value": "OG"
+    }
+  ]
+}
